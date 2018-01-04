@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+.cajita{
+    height: 500px;
+    border-style: solid;
+    border-color: rgba(1, 132, 255, 0.774);
+    overflow: auto;
+}
+.from{
+    color: blueviolet;
+}
+.to{
+    color: rgb(0, 54, 0)
+}
+
+.fondo{
+    background-color: #008CBA !important;
+}
